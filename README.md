@@ -1,0 +1,2 @@
+this simplifies the process of sending the project files to chat gpt to debug or further develop the project. this script first reads the .gitignore file in the directroy and gets the name of all the files and directories in it. then ignores those files and folders and prints all other files in the project. this script also prints the directory structure in the project.
+to use this file simply put the file in the project and run it. to ignore additional files add them to additional_ignores list in the script
